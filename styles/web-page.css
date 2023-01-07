@@ -30,6 +30,7 @@
     background-image: url(../images/banner/banner3.png);
     background-repeat: no-repeat;
     background-size:cover;
+    background-position: center;
     padding: 216px 230px 364px 845px;
 }
 
