@@ -4,7 +4,7 @@
 }
 
 .navbar {
-    background-color: #0A2647;
+    background-color: #005FAC;
     width: 100%;
     position: fixed;
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
@@ -126,12 +126,12 @@ ul i{
     url(../images/watch.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
     border-radius: 8px;
     padding: 70px 0px;
     margin-bottom: 130px ;
     margin-left: 229px;
     margin-right: 230px;
-    max-width: 1140px;
 }
 
 .text-gradient {
